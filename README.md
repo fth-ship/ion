@@ -16,6 +16,13 @@ Working for learning purposes at this moment.
 
 	[sudo] npm start
 
+## Created with
+
+  * Node.js
+  * Angular.js
+  * Node-webkit
+  * PureCSS
+
 ## Created by
 
 Kaique da Silva <kaique.developer@gmail.com> under BSD
