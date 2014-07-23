@@ -1,0 +1,26 @@
+* {
+  color: #fff;
+}
+
+body {
+  background: #3C404A;
+}
+
+.terminal {
+  padding: 5px;
+}
+
+.terminal .stdout {}
+.terminal .stdin-holder {}
+
+.terminal .stdin-holder .stdin {
+  background: none;
+  border: none;
+  color: #fff;
+  width: 98.1%;
+  float: right;
+}
+
+input:focus {
+  outline: 0;
+}

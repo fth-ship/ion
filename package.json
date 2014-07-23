@@ -1,0 +1,17 @@
+{
+  "name": "ion",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./www/templates/index.html",
+  "window": {
+    "toolbar": false
+  },
+  "scripts": {
+    "start": "nodewebkit"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "nodewebkit": "^0.9.2-8"
+  }
+}
