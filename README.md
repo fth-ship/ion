@@ -6,7 +6,7 @@ This is a terminal application with focus on improve the experience of *nix user
 
 ## Early stage
 
-This a easly stage, just to explain how it works on a blog post, the funcitionalities was just exec commands... nothing more.
+Working for learning purposes at this moment.
 
 ## Installation
 
@@ -15,3 +15,7 @@ This a easly stage, just to explain how it works on a blog post, the funcitional
 ## Usage in development mode
 
 	[sudo] npm start
+
+## Created by
+
+Kaique da Silva <kaique.developer@gmail.com> under BSD

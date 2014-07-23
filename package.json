@@ -1,7 +1,7 @@
 {
   "name": "ion",
   "version": "0.0.0",
-  "description": "",
+  "description": "A terminal application.",
   "main": "./www/templates/index.html",
   "window": {
     "toolbar": false
